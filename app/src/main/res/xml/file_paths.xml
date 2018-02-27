@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="my_images"
+        path="" />   //这里为空为将整个SD卡进行共享，虽然有错误提醒，但是运行并不会出错
+
+</paths>
